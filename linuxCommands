@@ -1,0 +1,4 @@
+Linux Commands
+1) touch fileName <-- used to create a file
+2) tee -a filename << EOF (press enter ) and write yr lines and EOF in the end.
+3) echo -e "line 1 \nLine 2\n Line 3 " >> fileName.txt <-- by this way we can append more lines in a same file.
